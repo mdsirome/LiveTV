@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpG6fw6Y/image.png" group-title="Sirome TV", Sirome TV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
 https://www.youtube.com/watch?v=Cr54b66qwwk
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
+https://youtu.be/Cr54b66qwwk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="RELIGION", PEACE TV BANGLA
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
