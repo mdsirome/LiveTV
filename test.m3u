@@ -1,46 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
-https://www.youtube.com/watch?v=Cr54b66qwwk
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
-https://youtu.be/Cr54b66qwwk
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="RELIGION", PEACE TV BANGLA
-http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Medina Tv
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg" group-title="RELIGION", IQRA BANGLA
-http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="RELIGION", IQRA BANGLA
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YdcbgR/Picsart-23-06-27-22-56-51-911.png" group-title="RELIGION", SUNNAH TV
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png" group-title="RELIGION", SUNNAH TV SA
-https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YdcbgR/Picsart-23-06-27-22-56-51-911.png" group-title="RELIGION, AL SUNNAH
-https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Prjwwcb/pngwing-com.png" group-title="RELIGION", AL QURAN AL QAREEM
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnsQVkNC/image.jpg"group-title="RELIGION",Deen TV UK
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGI22ON", PEACE242 TV
 http://145.239.5.177:8080/100/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PE242ACE TV
 http://145.239.5.177:8080/101/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIG424ION", PE24ACE TV
 http://145.239.5.177:8080/102/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEAC424E TV
 http://145.239.5.177:8080/103/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RE424LIGION", PEAC4242E TV
 http://145.239.5.177:8080/104/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEAC4242E TV
 http://145.239.5.177:8080/105/index.m3u8
 http://145.239.5.177:8080/106/index.m3u8
 http://145.239.5.177:8080/107/index.m3u8
