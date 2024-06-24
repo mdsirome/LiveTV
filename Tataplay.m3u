@@ -1,0 +1,240 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Pictures FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN" ,IN: & Pictures FHD
+http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV FHD
+http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV HD USA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN" ,IN: & TV HD USA
+http://195.26.87.217/live.ts?channelId=141&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9x Jalwa" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png" group-title="INDIAN" ,IN: 9x Jalwa
+http://195.26.87.217/live.ts?channelId=142&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9xm" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="INDIAN" ,IN: 9xm
+http://195.26.87.217/live.ts?channelId=143&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="INDIAN" ,IN: Aaj Tak FHD
+http://195.26.87.217/live.ts?channelId=144&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="INDIAN" ,IN: Aaj Tak UK
+http://195.26.87.217/live.ts?channelId=145&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha Bhajan" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png" group-title="INDIAN" ,IN: Aastha Bhajan
+http://195.26.87.217/live.ts?channelId=146&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="INDIAN" ,IN: Aastha TV
+http://195.26.87.217/live.ts?channelId=147&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="INDIAN" ,IN: Aastha TV UK
+http://195.26.87.217/live.ts?channelId=148&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP News India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/56eaab9.png" group-title="INDIAN" ,IN: ABP News India
+http://195.26.87.217/live.ts?channelId=149&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Animal Planet Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png" group-title="INDIAN" ,IN: Animal Planet Hindi
+http://195.26.87.217/live.ts?channelId=151&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png" group-title="INDIAN" ,IN: B4U Kadak
+http://195.26.87.217/live.ts?channelId=35383&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png" group-title="INDIAN" ,IN: B4U Movies
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png" group-title="INDIAN" ,IN: B4U Music
+http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d11d123.png" group-title="INDIAN" ,IN: B4U Plus
+http://195.26.87.217/live.ts?channelId=154&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBO Classic HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png" group-title="INDIAN" ,IN: BBO Classic HD
+http://195.26.87.217/live.ts?channelId=86150&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBO HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png" group-title="INDIAN" ,IN: BBO HD
+http://195.26.87.217/live.ts?channelId=86148&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bollywood Classic" tvg-link="" tvg-logo="" group-title="INDIAN" ,IN: Bollywood Classic
+http://195.26.87.217/live.ts?channelId=123916&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bollywood HD" tvg-link="" tvg-logo="" group-title="INDIAN" ,IN: Bollywood HD
+http://195.26.87.217/live.ts?channelId=123915&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/53b880f.png" group-title="INDIAN" ,IN: CNBC Awaaz FHD
+http://195.26.87.217/live.ts?channelId=86147&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC TV 18" tvg-link="" tvg-logo="http://147.182.195.61/panel/imageicon/21a37a8.png" group-title="INDIAN" ,IN: CNBC TV 18
+http://195.26.87.217/live.ts?channelId=49404&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNN News 18 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5b37a02.png" group-title="INDIAN" ,IN: CNN News 18 FHD
+http://195.26.87.217/live.ts?channelId=28125&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Bollywood FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="INDIAN" ,IN: Colors Cineplex Bollywood FHD
+http://195.26.87.217/live.ts?channelId=62412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN" ,IN: Colors Cineplex FHD
+http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png" group-title="INDIAN" ,IN: Colors Cineplex HD UK
+http://195.26.87.217/live.ts?channelId=156&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Cineplex Superhits FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png" group-title="INDIAN" ,IN: Colors Cineplex Superhits FHD
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Bigg Boss Main CAM" tvg-link="" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png" group-title="INDIAN" ,IN: Colors Bigg Boss Main CAM
+http://195.26.87.217/live.ts?channelId=57&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Infinity FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png" group-title="INDIAN" ,IN: Colors Infinity FHD
+http://195.26.87.217/live.ts?channelId=157&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Bigg Boss Garden CAM" tvg-link="" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png" group-title="INDIAN" ,IN: Colors Bigg Boss Garden CAM
+http://195.26.87.217/live.ts?channelId=59&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Rishtey FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="INDIAN" ,IN: Colors Rishtey FHD
+http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Rishtey UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="INDIAN" ,IN: Colors Rishtey UK
+http://195.26.87.217/live.ts?channelId=159&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN" ,IN: Colors TV FHD
+http://195.26.87.217/live.ts?channelId=160&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN" ,IN: Colors TV FHD.
+http://195.26.87.217/live.ts?channelId=36129&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN" ,IN: Colors TV FHD UK
+http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD News FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/794387b.png" group-title="INDIAN" ,IN: DD News
+http://195.26.87.217/live.ts?channelId=163&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery HD Hindi FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png" group-title="INDIAN" ,IN: Discovery HD Hindi FHD
+http://195.26.87.217/live.ts?channelId=164&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png" group-title="INDIAN" ,IN: Discovery Science Hindi
+http://195.26.87.217/live.ts?channelId=166&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Divyang News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/766d3d6.png" group-title="INDIAN" ,IN: Divyang News
+http://195.26.87.217/live.ts?channelId=38555&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Divya TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/16520b2.png" group-title="INDIAN" ,IN: Divya TV
+http://195.26.87.217/live.ts?channelId=33135&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: ET Now FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5c49268.png" group-title="INDIAN" ,IN: ET Now FHD
+http://195.26.87.217/live.ts?channelId=167&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Food Food" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b35aa95.png" group-title="INDIAN" ,IN: Food Food
+http://195.26.87.217/live.ts?channelId=169&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: GNT News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c5f05af.png" group-title="INDIAN" ,IN: GNT News
+http://195.26.87.217/live.ts?channelId=36272&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hare Krsna TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png" group-title="INDIAN" ,IN: Hare Krsna TV
+http://195.26.87.217/live.ts?channelId=33132&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: HBO" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2f5c44.png" group-title="INDIAN" ,IN: HBO
+http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c65ab6d.png" group-title="INDIAN" ,IN: India News
+http://195.26.87.217/live.ts?channelId=33324&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Today" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b1f1bc.png" group-title="INDIAN" ,IN: India Today
+http://195.26.87.217/live.ts?channelId=36126&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: India TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/71881e5.png" group-title="INDIAN" ,IN: India TV
+http://195.26.87.217/live.ts?channelId=171&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Krishna Vani" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png" group-title="INDIAN" ,IN: Krishna Vani
+http://195.26.87.217/live.ts?channelId=29210&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastiii TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c3b2eec.png" group-title="INDIAN" ,IN: Mastiii TV
+http://195.26.87.217/live.ts?channelId=172&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/33145d2.png" group-title="INDIAN" ,IN: Movies Now
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ee6b44e.png" group-title="INDIAN" ,IN: MTV Beats
+http://195.26.87.217/live.ts?channelId=173&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png" group-title="INDIAN" ,IN: MTV HD
+http://195.26.87.217/live.ts?channelId=174&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN" ,IN: Music India
+http://195.26.87.217/live.ts?channelId=175&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo English" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="INDIAN" ,IN: Nat Geo English
+http://195.26.87.217/live.ts?channelId=125057&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="INDIAN" ,IN: Nat Geo Hindi
+http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo Wild Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1380d86.png" group-title="INDIAN" ,IN: Nat Geo Wild Hindi
+http://195.26.87.217/live.ts?channelId=177&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV 24X7" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f7d3859.png" group-title="INDIAN" ,IN: NDTV 24X7
+http://195.26.87.217/live.ts?channelId=29208&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7ae6a0.png" group-title="INDIAN" ,IN: NDTV India
+http://195.26.87.217/live.ts?channelId=178&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV Profit" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/593385a.png" group-title="INDIAN" ,IN: NDTV Profit
+http://195.26.87.217/live.ts?channelId=179&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: News18" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cd686e0.png" group-title="INDIAN" ,IN: News18
+http://195.26.87.217/live.ts?channelId=61901&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: News Nation" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/17135d6.png" group-title="INDIAN" ,IN: News Nation
+http://195.26.87.217/live.ts?channelId=29702&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: NewsX India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7380374.png" group-title="INDIAN" ,IN: NewsX India
+http://195.26.87.217/live.ts?channelId=36127&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Param Satta TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f193ed.png" group-title="INDIAN" ,IN: Param Satta TV
+http://195.26.87.217/live.ts?channelId=33150&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3ae517f.png" group-title="INDIAN" ,IN: Republic TV
+http://195.26.87.217/live.ts?channelId=33168&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bharat" tvg-link="" tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png" group-title="INDIAN" ,IN: Republic Bharat
+http://195.26.87.217/live.ts?channelId=126084&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanskar TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png" group-title="INDIAN" ,IN: Sanskar TV
+http://195.26.87.217/live.ts?channelId=181&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Satsang TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png" group-title="INDIAN" ,IN: Satsang TV
+http://195.26.87.217/live.ts?channelId=182&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN" ,IN: Sony Max 2 FHD
+http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="INDIAN" ,IN: Sony Max 2 UK
+http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD
+http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD.
+http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="INDIAN" ,IN: Sony Max HD UK
+http://195.26.87.217/live.ts?channelId=186&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="INDIAN" ,IN: Sony Pal FHD
+http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png" group-title="INDIAN" ,IN: Sony Pix FHD
+http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab FHD
+http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png" group-title="INDIAN" ,IN: Sony Sab FHD.
+http://195.26.87.217/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab HD UK
+http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
+http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
+http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD UK
+http://195.26.87.217/live.ts?channelId=194&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN" ,IN: Sony Wah FHD
+http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN" ,IN: Star Bharat FHD
+http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="INDIAN" ,IN: Star Bharat FHD UK
+http://195.26.87.217/live.ts?channelId=305&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold 2 FHD
+http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD
+http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD UK
+http://195.26.87.217/live.ts?channelId=12358&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="INDIAN" ,IN: Star Gold Select FHD
+http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="INDIAN" ,IN: Star Movies FHD
+http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="INDIAN" ,IN: Star Movies Select FHD
+http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="INDIAN" ,IN: Star Plus FHD
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="INDIAN" ,IN: Star Plus FHD.
+http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN" ,IN: Star Plus FHD UK
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Utsav" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN" ,IN: Star Utsav
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Swar Shree" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png" group-title="INDIAN" ,IN: Swar Shree
+http://195.26.87.217/live.ts?channelId=61658&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png" group-title="INDIAN" ,IN: Times Now FHD
+http://195.26.87.217/live.ts?channelId=204&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC World HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1098de6.png" group-title="INDIAN" ,IN: TLC World HD
+http://195.26.87.217/live.ts?channelId=205&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV NRI" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png" group-title="INDIAN" ,IN: TV NRI
+http://195.26.87.217/live.ts?channelId=33136&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: WION NEWS FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png" group-title="INDIAN" ,IN: WION NEWS FHD
+http://195.26.87.217/live.ts?channelId=85499&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="INDIAN" ,IN: Zee Action
+http://195.26.87.217/live.ts?channelId=207&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png" group-title="INDIAN" ,IN: Zee Anmol
+http://195.26.87.217/live.ts?channelId=208&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png" group-title="INDIAN" ,IN: Zee Anmol Cinema
+http://195.26.87.217/live.ts?channelId=209&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png" group-title="INDIAN" ,IN: Zee Bollywood
+http://195.26.87.217/live.ts?channelId=210&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png" group-title="INDIAN" ,IN: Zee Business
+http://195.26.87.217/live.ts?channelId=211&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Café FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png" group-title="INDIAN" ,IN: Zee Café FHD
+http://195.26.87.217/live.ts?channelId=212&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN" ,IN: Zee Cinema FHD
+http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN" ,IN: Zee Cinema HD.
+http://195.26.87.217/live.ts?channelId=12359&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,IN: Zee Cinema UK
+http://195.26.87.217/live.ts?channelId=214&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png" group-title="INDIAN" ,IN: Zee Classic
+http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a940f8d.png" group-title="INDIAN" ,IN: Zee Hindustan
+http://195.26.87.217/live.ts?channelId=25528&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png" group-title="INDIAN" ,IN: Zee News
+http://195.26.87.217/live.ts?channelId=216&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png" group-title="INDIAN" ,IN: Zee TV FHD UK
+http://195.26.87.217/live.ts?channelId=218&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png" group-title="INDIAN" ,IN: Zee TV FHD
+http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png" group-title="INDIAN" ,IN: Zee TV FHD.
+http://195.26.87.217/live.ts?channelId=12301&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Zest FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7147ce.png" group-title="INDIAN" ,IN: Zee Zest FHD
+http://195.26.87.217/live.ts?channelId=29704&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="INDIAN" ,IN: Zing TV
+http://195.26.87.217/live.ts?channelId=219&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zoom TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png" group-title="INDIAN" ,IN: Zoom TV
+http://195.26.87.217/live.ts?channelId=121&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Bigg Boss Bathroom CAM" tvg-link="" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png" group-title="INDIAN" ,IN: Colors Bigg Boss Bathroom CAM
+http://195.26.87.217/live.ts?channelId=78814&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zorins TV UAE" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/b00bca5.png" group-title="INDIAN" ,IN: Zorins TV UAE
+http://195.26.87.217/live.ts?channelId=36275&uid=7435&deviceMac=00:1A:79:51:4B:3A
