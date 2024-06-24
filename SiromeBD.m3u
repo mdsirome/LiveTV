@@ -129,6 +129,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S UK
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S UK
 https://ap196.iqplay.tv:4433/hls/tvchsuk03/3_2/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://probashinews24.tv/images/logo.png",Probash TV
