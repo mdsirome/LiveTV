@@ -172,7 +172,8 @@ https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/Rajdhani%20TV.jpg",Rajdhani TV
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-
+#EXTINF:-0 tvg-logo="https://jagoroni.tv/wp-content/uploads/2023/07/cropped-jagoroni-png.png",Jagoroni TV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/JagoroniTV.m3u8
 #EXTINF:-0 tvg-logo="https://jagoroni.tv/wp-content/uploads/2023/07/cropped-jagoroni-png.png",Jagoroni TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
 
