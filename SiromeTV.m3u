@@ -437,8 +437,11 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png",AB TV USA [Jagobd]
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg",Anando TV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/Ananda.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg",Anando TV [Jagobd]
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png",Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png",Asian TV
