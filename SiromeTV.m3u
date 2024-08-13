@@ -603,6 +603,8 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png",Bangla Jago TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/4yL1JYCZ/Colors-Bangla-Logo.png",Colors Bangla [Sirome TV]
+https://github.com/sirometv/Live/raw/main/IndianBangla/ColorsBangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/4yL1JYCZ/Colors-Bangla-Logo.png",Colors Bangla [Jio]
 https://sports247.eu.org/api/app/live.php?id=1369&e=.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/4yL1JYCZ/Colors-Bangla-Logo.png",Colors Bangla [Malaysia]
