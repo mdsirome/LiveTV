@@ -2817,6 +2817,9 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD
 http://103.132.181.118:82/play/a007
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Bangla [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Documentary/DiscoveryBangla.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Bangla
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Bangla
