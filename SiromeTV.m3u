@@ -134,6 +134,9 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfpU6m0L0zANwnILT8o56nhtc5kTvUGARAuh_VuIMO4tAIDXmGcyPGp2qyNtB06hw8k&usqp=CAU",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/MTMzbHYh/KZGlspv-LQRKBBw-Ka-Vm8-Ff-A.jpg,Ekushey ETV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/EkusheyTV.m3u8
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
