@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
 https://www.youtube.com/watch?v=Cr54b66qwwk
 #EXTM3U
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/NjVrxfrH/download-10.png",Al Quran Al Kareem TV
+https://github.com/sirometv/Live/raw/main/Arabic/Makkah.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Arabic/Al_Sunnah.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV [Jagobd]
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [SiromeTV]
 https://github.com/sirometv/Live/raw/main/Bangla/JamunaTV1.m3u8
@@ -1348,9 +1354,9 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/C5kkH2Dp/270-144.png",Warner TV [Malaysia]
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71094
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/NjVrxfrH/download-10.png",Al Quran Al Kareem TV
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
-https://edge.taghtia.com/sa/6.m3u8
+https://github.com/sirometv/Live/raw/main/Arabic/Makkah.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Arabic/Al_Sunnah.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV [Jagobd]
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/Hxxh08cX/logo.png",ATN Islamic TV [Jagobd]
