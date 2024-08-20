@@ -4,18 +4,52 @@
 https://www.youtube.com/watch?v=Cr54b66qwwk
 #EXTM3U
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/JamunaTV1.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [SiromeTV]
+https://github.com/mdsirome/LiveTV/raw/main/APPS/JamunaTV.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [Jagobd]
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/9fNLHQjX/Screenshot-1.jpg",Channel 24 [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/Channel24.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/9fNLHQjX/Screenshot-1.jpg",Channel 24 [Jagobd]
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
+https://4ytksrllvm.gpcdn.net/tv/Channel24/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/MTMzbHYh/KZGlspv-LQRKBBw-Ka-Vm8-Ff-A.jpg,Ekushey ETV [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/EkusheyTV.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/pd8dKyMF/O-Nzx7-DTRsap-BB-u7w-EYFQ.jpg",DBC News [SiromeTV]
 https://github.com/sirometv/Live/raw/main/Bangla/DBCNews.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png",DBC News [Jagobd]
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News [Jagobd]
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/cL7JzvwY/S6g-Zc-UAn-Rp-Sho-Cu0hi7t1-Q.jpg",Channel I [SiromeTV]
+https://github.com/sirometv/Live/raw/main/Bangla/Channeli.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I 
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png",Channel I [Jagobd]
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
+
 
 #EXTINF:-0 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -35,18 +69,7 @@ https://cdn.querysports.com/hls/copa.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=hYFvjQcWK5ZJi9gjI1S19w&expires=1722220300&user=d477246e9e724f81a011b847457e71c4 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [SiromeTV]
-https://github.com/sirometv/Live/raw/main/Bangla/JamunaTV1.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [SiromeTV]
-https://github.com/mdsirome/LiveTV/raw/main/APPS/JamunaTV.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV [Jagobd]
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -141,11 +164,7 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfpU6m0L0zANwnILT8o56nhtc5kTvUGARAuh_VuIMO4tAIDXmGcyPGp2qyNtB06hw8k&usqp=CAU",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.postimg.cc/MTMzbHYh/KZGlspv-LQRKBBw-Ka-Vm8-Ff-A.jpg,Ekushey ETV [SiromeTV]
-https://github.com/sirometv/Live/raw/main/Bangla/EkusheyTV.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-E6Las0-lxRQ/X9PJNQyA2vI/AAAAAAAABGY/HdQbtL36W10wu3Ie944gEVggzRaKHnWEgCLcBGAsYHQ/w800/Channel-S-UK-LIve.png",Channel S UK
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
@@ -500,12 +519,8 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 http://208.86.19.13:81/503.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png",Channel Europe [Jagobd]
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/live-orgin/channeleurope.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png",Channel I [SiromeTV]
-https://github.com/sirometv/Live/raw/main/Bangla/Channeli.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png",Channel I [Jagobd]
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png",Channel I
-http://208.86.19.13:81/510.stream/index.m3u8?
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qRJM2nnp/cateringcircle.png",Channel S UK [Jagobd]
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/MG5jL6dW/image.jpg",CNN Bangla
