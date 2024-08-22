@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFhqyB5/a-15-Copy.png" group-title="Sirome TV", Sirome TV 
 https://www.youtube.com/watch?v=Cr54b66qwwk
 #EXTM3U
+
+########################## Sirome TV ##########################
+
+
+
+
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/NjVrxfrH/download-10.png",Al Quran Al Kareem TV [SiromeTV]
 https://github.com/sirometv/Live/raw/main/Arabic/Makkah.m3u8
 
@@ -106,11 +112,7 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://github.com/sirometv/Live/raw/main/Bangla/RTVBD.m3u8
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD [Jagobd]
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTbzX96SOUXVOXxz1db1jdAQX2BhDwXpW0iV72X=s900-c-k-c0x00ffffff-no-rj",Cumilla TV
 http://103.149.142.133/0.m3u8
@@ -118,8 +120,23 @@ http://103.149.142.133/0.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
+
+
+
+########################## Jaggo BD ##########################
 #EXTINF:-0 tvg-logo="https://www.somoynews.tv/icon.png",Somoy TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD 
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTOzkHjUpNUd3hWUIm4H93yHAqlY3dn0NLZ5Zt49w=s900-c-k-c0x00ffffff-no-rj",Jago News 24
+https://github.com/sirometv/Live/raw/main/Bangla/Jagonews24.m3u8
 
 
 ######################## Cricket 🏏 ####################################################
@@ -462,7 +479,8 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://livess.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTOzkHjUpNUd3hWUIm4H93yHAqlY3dn0NLZ5Zt49w=s900-c-k-c0x00ffffff-no-rj",Jago News 24
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5339cb11375111.560f6b587c7c3.jpg",Makkah TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
